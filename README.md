@@ -11,6 +11,6 @@ The purpose of this readme is to outline the project's GitHub technical requirem
 <li>Project Manager: Add group member as collaborators to the forl by clicking "Collaborators" within "Settings." Search by username or email address. </li>
 </ol>
 
-How your group uses the Git workflow is up to your project manager (and the group's consensus). You may choose to work soley off the master repository, making all changes, uploads, and revisions there. Or, each group member may fork the master repository (like the project manager did with the class repository) and work independently, sending pull requests when each benchmark of the project is met. 
+How your group uses the Git workflow is up to your project manager (and the group's consensus). You may choose to work soley off the master repository, making all changes, uploads, and revisions there. Or, each group member may create a branch from the master repository (like the project manager did with the class repository) and work independently, sending pull requests when each benchmark of the project is met. 
 
 
