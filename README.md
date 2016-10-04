@@ -3,6 +3,21 @@ The README file in a GitHub repository serves as the "welcome" page to that repo
 
 The purpose of this readme is to outline the project's GitHub technical requirements. Your group will be using a GitHub repository to complete project 2. 
 
+<h2>Tuesday 10-4</h2>
+Focus Points:
+<ul>
+<li>Understanding Git</li>
+<li>Understanding team roles and project management</li>
+</ul>
+Deliverables:
+<ul>
+<li>Team Charter (commit to GitHub group repo) </li>
+</ul>
+
+<br>
+
+
+
 <h2>Instructions</h2>
 
 <ol>
