@@ -9,12 +9,13 @@ Focus Points:
 <li>Understanding Git</li>
 <li>Understanding team roles and project management</li>
 </ul>
+Deliverables:
 <ul>
 <li>Team Charter (commit to GitHub group repo) </li>
 </ul>
 
 <br>
-Deliverables
+
 
 
 <h2>Instructions</h2>
