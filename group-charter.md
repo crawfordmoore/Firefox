@@ -6,7 +6,7 @@ If your group wants to write the group charter directly onto GitHub, you can edi
 <th><h1 align="center">Team Charter (Name of Team)</h1></th>
 <tr>
 <td>Broad Team Goals</td>
-<td colspan="3></td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td>Measurable Team Goals</td>
