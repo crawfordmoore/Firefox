@@ -5,13 +5,13 @@ The purpose of this readme is to outline the project's GitHub technical requirem
 
 <h2>Tuesday 10-4</h2>
 Focus Points:
-<ol>
+<ul>
 <li>Understanding Git</li>
 <li>Understanding team roles and project management</li>
-</ol>
-<ol>
+</ul>
+<ul>
 <li>Team Charter (commit to GitHub group repo) </li>
-</ol>
+</ul>
 
 <br>
 Deliverables
