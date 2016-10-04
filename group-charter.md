@@ -1,6 +1,6 @@
 # Template for Group Charter
 
-If your group wants to write the group charter directly onto GitHub, you can edit this document. <a href="http://www.w3schools.com/html/">Basic HTML</a> tags allowed. 
+Transcribe team charter and commit to your master repository. <a href="http://www.w3schools.com/html/">Basic HTML</a> tags allowed. 
 
 <table>
 <th colspan="4"><h1 align="center">Team Charter (Name of Team)</h1></th>
