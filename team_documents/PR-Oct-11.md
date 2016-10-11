@@ -17,4 +17,4 @@ Team Progress Report
 No real problems, some difficulty learning GitHub but other than that everything is fine. We'll continue to play around and get better. 
 
 **Late Status Reports**:
-All team members completed their work on-time 
+*All team members completed their work on-time 
