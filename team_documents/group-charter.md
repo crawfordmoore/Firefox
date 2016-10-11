@@ -11,7 +11,7 @@ Researcher- Brandon Brewer, 662-832-4321
 
 Bibliographer & Fact Checker- Renee McDowell, 262-955-4085
 
-Broad Term Goal 
+## Broad Term Goal 
 Talk about Firefox & its add ons and its application in higher education 
 Get a good grade
 Impress Mr. Davis with the amount of effort we devoted to the project
