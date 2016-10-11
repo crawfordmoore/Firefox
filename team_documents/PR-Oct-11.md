@@ -1,4 +1,4 @@
-Team Progress Report
+#Team Progress Report
 
 **Date Submitted**: October 11th 2016
 
