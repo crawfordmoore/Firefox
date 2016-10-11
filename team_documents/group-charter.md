@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mozilla Firefox Team Charter
 
 
@@ -51,4 +52,7 @@ If someone’s work is below standard they will have to re-do it.
 If you believe a team member’s work is subpar report it to your Project Manager.
 If you have questions, always ask; don't spend time doing work that wrong.
 No one is responsible for fixing your work, but we’ll help any way possible.
+=======
+# Template for Group Charter
+>>>>>>> refs/remotes/adavis46/master
 
