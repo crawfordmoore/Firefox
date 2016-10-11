@@ -6,12 +6,17 @@ The purpose of this readme is to outline the project's GitHub technical requirem
 ## Tuesday 10-11
 
 Focus Points: 
+
 1. Review Audience Profile and Analysis
+
 2. Introduce guidelines and specifications for technical documents
+
 3. Issue team progress report 1 (template --> https://github.com/adavis46/writ350-fa16/blob/master/team_documents/reports.md) 
 
 Deliverables:
+
 1. Audience Profile 
+
 2. Progress Report 1
 
 <h2>Thursday 10-6</h2>
