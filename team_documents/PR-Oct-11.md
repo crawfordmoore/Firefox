@@ -4,7 +4,7 @@
 
 **Team Accomplishments**:
 * Finish and upload Team Charter
-* Finish and upload Audience 
+* Finish and upload Audience Profile
 
 
 **Unfinished Tasks**:
