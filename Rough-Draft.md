@@ -17,32 +17,30 @@ College students and professors typically favor one web browser over the others 
 
 
 Google Scholar is a firefox add-on that can be used to find full text on the web or in your university library. Google Scholar itself is a search engine, but you can download a Google Scholar button that lets you access Google Scholar from any web page. After you select the title of a paper, you can press the “Google Scholar” button to find the complete paper in Google Scholar. This add-on also allows you to transfer your query from web search directly to Google Scholar. It also allows you to format references in any widely used citation style. Google Scholar is useful for in-depth research and easy citing.
+## To use:
 
-To use:
-
-Talk about how to add Google Scholar to the Firefox browser.
-Talk about how to add the Google Scholar button add-on.
-Select the title of the paper on the page you’re reading and click the “Scholar” button to find the top three results.
-Click “full-screen” in the lower left of the popup to see all results.
-To format references a certain way, click the “quote” button in the popup to see a formatted reference. You can copy this reference into the paper you’re writing.
+* Talk about how to add Google Scholar to the Firefox browser.
+* Talk about how to add the Google Scholar button add-on.
+* Select the title of the paper on the page you’re reading and click the “Scholar” button to find the top three results.
+* Click “full-screen” in the lower left of the popup to see all results.
+* To format references a certain way, click the “quote” button in the popup to see a formatted reference. You can copy this reference into the paper you’re writing.
 
 # Add-on: Wired-Marker
 	
 
 Wired-Marker is a Firefox add-on that can be used to highlight content from various web pages and save it to a single location for later referencing. This add-on allows you to color-code information and sort it in folders by category, subject, or any other classification. It allows users to name folders and create subdivisions within each section. The highlighted information is stored in the add-on, allowing users to return to the webpage by clicking on the saved text. This add-on is ideal for the early stages of research and gathering information. 
+## To use:
 
-To use:
-
-Go to add-on menu, select “Wired-Marker”, and restart Firefox when prompted.
-Select “Wired-Marker” in the top menu to turn the application on. It will appear on the left side of the browser.
-Highlight desired text with the mouse and right click
-Select “Wired-Marker → “Marker” → Desired marker
-Users may classify information in different ways
-Select “Marker” to classify information into a general folder
-Select “Marker 1” through “Marker 8” to highlight the text in a certain color and further classify it
-User will be prompted to name and create a note for the highlighted material. These will be automatically filled in, but may be changed to make the material easier to find later. 
-When retrieving saved information, select the desired folder
-A list of saved notes will appear. Double clicking the desired note will take you to its original web page.  
+* Go to add-on menu, select “Wired-Marker”, and restart Firefox when prompted.
+* Select “Wired-Marker” in the top menu to turn the application on. It will appear on the left side of the browser.
+* Highlight desired text with the mouse and right click
+* Select “Wired-Marker → “Marker” → Desired marker
+* Users may classify information in different ways
+* Select “Marker” to classify information into a general folder
+* Select “Marker 1” through “Marker 8” to highlight the text in a certain color and further classify it
+* User will be prompted to name and create a note for the highlighted material. These will be automatically filled in, but may be changed to make the material easier to find later. 
+* When retrieving saved information, select the desired folder
+* A list of saved notes will appear. Double clicking the desired note will take you to its original web page.  
  
  
 # Conclusion
