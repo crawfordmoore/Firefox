@@ -7,7 +7,7 @@ College students and professors typically favor one web browser over the others 
  	
 
 “Google-Translator” add-on is an add-on that can be downloaded to Firefox to use for research. For example, a student is researching a topic and comes across an important article that could contribute crucial information to the prospectus, but the text is in another language. You cannot identify the language. By highlighting the text of the article, right clicking, and applying the add-on, the article you desperately need is now accessible in your language. Another example would be, a student of a Russian Literature class is exploring the influence of Leo Tolstoy’s War and Peace on other writers from the former Soviet Union. An intriguing article is found in the library’s One Source. The translation looks similar to Russian, but not exactly the same. The article is difficult to translate. The student can use “Google Translate to identify what language and convert the text into English or Russian. The student discovers the article is written in Czech and the title is “The influence of the Russian historical novel (Tolstoy's novel War and Peace) on the formation of Alois Jirasek.” The student is interested in the sound of the language. Google Translate allows the student to hear the Czech translation as well as the chosen interpretation. The information may be stored, shared, or edit to improve the translation.
-To use:
+## To use:
  Go to the add-on.mozilla.org.
 Search and select Google Translator, install, and restart Firefox when prompted.
 Google Translator should automatically show next to the menu icon. If Google Translator does not appear, open your menu to manually enable the app to run. This is also where you can find instructions for use.
