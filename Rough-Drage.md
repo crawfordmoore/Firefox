@@ -1,4 +1,5 @@
 Intro
+
 College students and professors typically favor one web browser over the others for completing course work and browsing the Internet. In an attempt to increase productivity for students and professors alike we believe Firefox and its accompanying add-ons like Google Translator, Google Scholar, and Wired-Marker will prove beneficial in higher education. Google Translator is helpful for learning a foreign language, Google Scholar allows students to easily access scholarly articles, and Wired-Marker allows the user to highlight sections on a web page. We will demonstrate examples of how to use the add-ons and why we believe they will increase productivity for students and professors alike. 
 
  
