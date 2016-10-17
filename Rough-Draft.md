@@ -45,5 +45,5 @@ Wired-Marker is a Firefox add-on that can be used to highlight content from vari
  
 # Conclusion
 
-Firefox’s add-ons are beneficial in higher education, and provide time saving features allowing students and professors to focus more on learning. Google Translator allows users to quickly translate webpages for academic use.  Google Scholar allows the user to search through academic articles without changing webpages.  Finally, Wired-Marker allows highlights to be used on webpages and remains when the website is later visited.  
+Firefox’s add-ons are beneficial in higher education, and provide time saving features allowing students and professors to focus more on learning. Google Translator allows users to quickly translate webpages for academic use.  Google Scholar allows the user to search through academic articles without changing webpages.  Finally, Wired-Marker allows highlights to be used on webpages and remains when the website is later visited.  We believe these add-on will be useful in higher education and streamline the educational process saving time and hassle for both students and professors. 
 
