@@ -42,7 +42,8 @@ Wired-Marker is a Firefox add-on that can be used to highlight content from vari
 * User will be prompted to name and create a note for the highlighted material. These will be automatically filled in, but may be changed to make the material easier to find later. 
 * When retrieving saved information, select the desired folder
 * A list of saved notes will appear. Double clicking the desired note will take you to its original web page.  
- 
+
+![screen shot 4](https://github.com/crawfordmoore/Firefox/blob/master/multimedia/Screen%20Shot%202016-10-18%20at%206.20.12%20PM.png?raw=true) 
  
 # Conclusion
 
