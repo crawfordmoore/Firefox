@@ -4,7 +4,6 @@
 
 **Team Accomplishments**:
 * Beta of Component 1 
-* Add images to Beta of Component 1
 
 
 **Unfinished Tasks**:
@@ -22,14 +21,14 @@ No problems to report
 
 **Team Members Updates** 
 
-* Crawford
+*Crawford
 
-Project is going well, and we've done a good job of learning GitHub. We will continue to update the documents as we keep working. 
+*Renee
 
-* Renee
+*Brandon 
 
-* Brandon 
+I regret my lack of contribution to this project. I am unable to download Firefox, so I can't test out Firefox itself, let alone the add-ons. Anything I offer from this point will have to be secondhand, unless I can somehow manage to download it. My goal is to be more useful. Also, I need to get more familiar with GitHub.
 
-* Libby 
+*Libby 
 
 I think the project is going well thus far. We all offer different strengths and are able to meet deadlines. I think that we have a pretty clear vision for where the project is going and have an idea how to execute it. My personal goal going forward is to become more familiar with GitHub, becuase that has been my biggest obstacle so far. 
