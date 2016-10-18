@@ -26,7 +26,7 @@ No problems to report
 Project is going well, we're learning how to use GitHub and how to edit documents. We have a clear idea for the future of our project and we're on task 
 
 * Renee
-
+Everyone is working well together. I have contributed to the research on the add-ons for Firefox, and authored the portion of Beta component 1 pertaining to Google Translator. I am also keeping a list of the references for the bibliography.
 * Brandon 
 
 I regret my lack of contribution to this project. I am unable to download Firefox, so I can't test out Firefox itself, let alone the add-ons. Anything I offer from this point will have to be secondhand, unless I can somehow manage to download it. My goal is to be more useful. Also, I need to get more familiar with GitHub.
