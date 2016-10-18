@@ -21,14 +21,15 @@ No problems to report
 
 **Team Members Updates** 
 
-*Crawford
+* Crawford
+Project is going well, we're learning how to use GitHub and how to edit documents. We have a clear idea for the future of our project and we're on task 
 
-*Renee
+* Renee
 
-*Brandon 
+* Brandon 
 
 I regret my lack of contribution to this project. I am unable to download Firefox, so I can't test out Firefox itself, let alone the add-ons. Anything I offer from this point will have to be secondhand, unless I can somehow manage to download it. My goal is to be more useful. Also, I need to get more familiar with GitHub.
 
-*Libby 
+* Libby 
 
 I think the project is going well thus far. We all offer different strengths and are able to meet deadlines. I think that we have a pretty clear vision for where the project is going and have an idea how to execute it. My personal goal going forward is to become more familiar with GitHub, becuase that has been my biggest obstacle so far. 
