@@ -19,7 +19,7 @@ College students and professors typically favor one web browser over the others 
 
 
 Google Scholar is a firefox add-on that can be used to find full text on the web or in your university library. Google Scholar itself is a search engine, but you can download a Google Scholar button that lets you access Google Scholar from any web page. After you select the title of a paper, you can press the “Google Scholar” button to find the complete paper in Google Scholar. This add-on also allows you to transfer your query from web search directly to Google Scholar. It also allows you to format references in any widely used citation style. Google Scholar is useful for in-depth research and easy citing.
-![screen shot 2]()
+![screen shot 2](https://github.com/crawfordmoore/Firefox/blob/master/multimedia/Screen%20Shot%202016-10-18%20at%205.59.05%20PM.png?raw=true)
 ## To use:
 * Talk about how to add Google Scholar to the Firefox browser.
 * Talk about how to add the Google Scholar button add-on.
