@@ -22,6 +22,7 @@ No problems to report
 **Team Members Updates** 
 
 * Crawford
+
 Project is going well, we're learning how to use GitHub and how to edit documents. We have a clear idea for the future of our project and we're on task 
 
 * Renee
