@@ -29,7 +29,7 @@ Google Scholar is a firefox add-on that can be used to find full text on the web
 
 # Add-on: Wired-Marker
 Wired-Marker is a Firefox add-on that can be used to highlight content from various web pages and save it to a single location for later referencing. This add-on allows you to color-code information and sort it in folders by category, subject, or any other classification. It allows users to name folders and create subdivisions within each section. The highlighted information is stored in the add-on, allowing users to return to the webpage by clicking on the saved text. This add-on is ideal for the early stages of research and gathering information. 
-![screen shot 3]()
+![screen shot 3](https://github.com/crawfordmoore/Firefox/blob/master/multimedia/Screen%20Shot%202016-10-18%20at%205.58.07%20PM.png?raw=true)
 ## To use:
 
 * Go to add-on menu, select “Wired-Marker”, and restart Firefox when prompted.
