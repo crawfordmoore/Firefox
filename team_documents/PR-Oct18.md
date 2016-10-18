@@ -4,6 +4,7 @@
 
 **Team Accomplishments**:
 * Beta of Component 1 
+* Add images to Beta of Component 1
 
 
 **Unfinished Tasks**:
@@ -21,12 +22,13 @@ No problems to report
 
 **Team Members Updates** 
 
-*Crawford
+* Crawford
+Project is going well, and we've done a good job of learning GitHub. We will continue to update the documents as we keep working. 
 
-*Renee
+* Renee
 
-*Brandon 
+* Brandon 
 
-*Libby 
+* Libby 
 
 I think the project is going well thus far. We all offer different strengths and are able to meet deadlines. I think that we have a pretty clear vision for where the project is going and have an idea how to execute it. My personal goal going forward is to become more familiar with GitHub, becuase that has been my biggest obstacle so far. 
