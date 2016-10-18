@@ -28,3 +28,4 @@ No problems to report
 *Brandon 
 
 *Libby 
+I think the project is going well thus far. We all offer different strengths and are able to meet deadlines. I think that we have a pretty clear vision for where the project is going and have an idea how to execute it. My personal goal going forward is to become more familiar with GitHub, becuase that has been my biggest obstacle so far. 
