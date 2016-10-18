@@ -23,6 +23,7 @@ No problems to report
 **Team Members Updates** 
 
 * Crawford
+
 Project is going well, and we've done a good job of learning GitHub. We will continue to update the documents as we keep working. 
 
 * Renee
