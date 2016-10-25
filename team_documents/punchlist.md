@@ -6,10 +6,9 @@ Use this punch list to keep track of project components as your team completes a
 - [x] Task List and Summary Pitch
 - [x] Audience Profile
 - [X] Progress Report 10-11-2016
-- [ ] Progress Report 10-13-2016
-- [ ] Beta of Component #1 (Documentation Set)
-- [ ] Progress Report 10-18-2016
-- [ ] Progress Report 10-20-2016
-- [ ] Beta of Component #2 (Vidoe/Multimodal Supplement) 
+- [X] Beta of Component #1 (Documentation Set)
+- [X] Progress Report 10-18-2016
+- [X] Progress Report 10-20-2016
+- [X] Beta of Component #2 (Vidoe/Multimodal Supplement) 
 - [ ] Beta of Component #3 (Curated Resources and References) 
 - [ ] Full Project V. 1.0 
