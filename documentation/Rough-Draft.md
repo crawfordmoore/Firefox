@@ -9,6 +9,7 @@ College students and professors typically favor one web browser over the others 
 “Google-Translator” add-on is an add-on that can be downloaded to Firefox to use for research. For example, a student is researching a topic and comes across an important article that could contribute crucial information to the prospectus, but the text is in another language. You cannot identify the language. By highlighting the text of the article, right clicking, and applying the add-on, the article you desperately need is now accessible in your language. Another example would be, a student of a Russian Literature class is exploring the influence of Leo Tolstoy’s War and Peace on other writers from the former Soviet Union. An intriguing article is found in the library’s One Source. The translation looks similar to Russian, but not exactly the same. The article is difficult to translate. The student can use “Google Translate to identify what language and convert the text into English or Russian. The student discovers the article is written in Czech and the title is “The influence of the Russian historical novel (Tolstoy's novel War and Peace) on the formation of Alois Jirasek.” The student is interested in the sound of the language. Google Translate allows the student to hear the Czech translation as well as the chosen interpretation. The information may be stored, shared, or edit to improve the translation.
 
 ![Screen Shot 1](https://github.com/crawfordmoore/Firefox/blob/master/multimedia/Screen%20Shot%202016-10-18%20at%205.57.40%20PM.png?raw=true)
+https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/?src=ss
 ## To use:
 * Go to the add-on.mozilla.org.
 * Search and select Google Translator, install, and restart Firefox when prompted.
@@ -20,6 +21,7 @@ College students and professors typically favor one web browser over the others 
 
 Google Scholar is a firefox add-on that can be used to find full text on the web or in your university library. Google Scholar itself is a search engine, but you can download a Google Scholar button that lets you access Google Scholar from any web page. After you select the title of a paper, you can press the “Google Scholar” button to find the complete paper in Google Scholar. This add-on also allows you to transfer your query from web search directly to Google Scholar. It also allows you to format references in any widely used citation style. Google Scholar is useful for in-depth research and easy citing.
 ![screen shot 2](https://github.com/crawfordmoore/Firefox/blob/master/multimedia/Screen%20Shot%202016-10-18%20at%205.59.05%20PM.png?raw=true)
+https://addons.mozilla.org/en-US/firefox/addon/google-scholar-button/?src=ss
 ## To use:
 * Talk about how to add Google Scholar to the Firefox browser.
 * Talk about how to add the Google Scholar button add-on.
@@ -30,6 +32,7 @@ Google Scholar is a firefox add-on that can be used to find full text on the web
 # Add-on: Wired-Marker
 Wired-Marker is a Firefox add-on that can be used to highlight content from various web pages and save it to a single location for later referencing. This add-on allows you to color-code information and sort it in folders by category, subject, or any other classification. It allows users to name folders and create subdivisions within each section. The highlighted information is stored in the add-on, allowing users to return to the webpage by clicking on the saved text. This add-on is ideal for the early stages of research and gathering information. 
 ![screen shot 3](https://github.com/crawfordmoore/Firefox/blob/master/multimedia/Screen%20Shot%202016-10-18%20at%205.58.07%20PM.png?raw=true)
+https://addons.mozilla.org/en-US/firefox/addon/wired-marker/?src=ss
 ## To use:
 
 * Go to add-on menu, select “Wired-Marker”, and restart Firefox when prompted.
